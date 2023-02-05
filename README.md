@@ -1,5 +1,7 @@
 # Age-Calculator
-This is an age calculator app made in swift story board ui
+This is an age calculator app made in swift story board ui.
+
+
 Picking the Age from date picker:
 
 ![Simulator Screen Shot - iPhone 14 Pro - 2023-02-05 at 16 03 45](https://user-images.githubusercontent.com/64682561/216812924-8db7dc10-2980-4a9a-9c68-f293ad14f9c4.png)
